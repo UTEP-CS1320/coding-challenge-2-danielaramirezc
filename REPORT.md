@@ -1,6 +1,6 @@
-##### Name: (Write your name here)
-##### Date: (Write the date here)
+##### Name: Daniela Ramirez
+##### Date: 9/28/2020
 
 ### CODING CHALLENGE #2: REPORT
 
-(Write your report here)
+In order to complete this challenge I began by sorting out the different "if even"'s I was going to be using. Once I had the numbers categorized into their different section, I made sure to correctly use && and || in order to minimize the amount of lines used. I tried using as many && and || as I could, which helped me keep each category such as "Elevated" to a minimum of a single if line. Another way that could've helped keep the if lines to a minimum would be by using strcp to code the information. If I would've used strcmp and "char", the result would've also limited the if's lines to 1. However, when I tried that, it became more complicated, which is why I kept it simple by only using integers and a line per category. I could've also coded this by using a different if line for every relational operator, but that would've resulted with at least 3 extra lines for every category, which just defeats the whole purpose of trying to minimize them. 
